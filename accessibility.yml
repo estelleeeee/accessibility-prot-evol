@@ -2,6 +2,8 @@ name: accessibility
 channels:
   - defaults
   - conda-forge
+  - salilab
 dependencies:
   - biopython
   - jupyterlab
+  - dssp
