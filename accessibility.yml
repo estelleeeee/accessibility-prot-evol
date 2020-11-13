@@ -1,0 +1,7 @@
+name: accessibility
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - biopython
+  - jupyterlab
