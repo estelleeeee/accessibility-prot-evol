@@ -7,3 +7,5 @@ dependencies:
   - biopython
   - jupyterlab
   - dssp
+  - pip:
+    - wget
