@@ -19,7 +19,7 @@ Le principe ici est donc en partant d'un jeu de données de structures protéiqu
 ## Pour démarrer
 
 ### Prérequis
-Ce projet nécessite l'installation de SCWRL4.0 disponible [ici](http://dunbrack.fccc.edu/SCWRL3.php/).
+Ce projet nécessite l'installation de SCWRL4.0 (disponible [ici](http://dunbrack.fccc.edu/SCWRL3.php/)).
 
 ### Environnement
 Création de l'environnement conda à partir du fichier *.yml* disponible.  
