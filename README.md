@@ -25,6 +25,11 @@ Ce projet nécessite l'installation de SCWRL4.0 (disponible [ici](http://dunbrac
 Création de l'environnement conda à partir du fichier *.yml* disponible.  
 `conda env create -f accessibility.yml`
 
+### Versions
+wget : 3.2  
+jupyterlab : 2.2.9  
+dssp : 3.0.0 (salilab)  
+
 ## Contact
 Tuteur : **Alexande De Brevern** (alexandre.debrevern@univ-paris-diderot.fr)  
 Tutoré : **Estelle Mariaux** (estelle.mariaux@hotmail.fr)
