@@ -1,7 +1,7 @@
 # Accessibilité relative des résidus et évolution protéique
 
 ## Status 
-En cours d'élaboration
+Interrompu  
 
 ## Sommaire
 
@@ -19,7 +19,7 @@ Le principe ici est donc en partant d'un jeu de données de structures protéiqu
 ## Pour démarrer
 
 ### Prérequis
-Ce projet nécessite l'installation de SCWRL4.0 (disponible [ici](http://dunbrack.fccc.edu/SCWRL3.php/)).
+Ce projet peut nécessiter l'installation de SCWRL4.0 (disponible [ici](http://dunbrack.fccc.edu/SCWRL3.php/)) et de Modeller. 
 
 ### Environnement
 Création de l'environnement conda à partir du fichier *.yml* disponible.  
